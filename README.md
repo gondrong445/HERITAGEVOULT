@@ -1,6 +1,6 @@
 # HERITAGEVAULT
 
-![HERITAGEVAULT Logo](./generated-icon.png)
+![HERITAGEVAULT Logo](./https://brown-selective-cheetah-547.mypinata.cloud/ipfs/bafybeialssw54u2fpgi27hl5j26wepbseer5shk6dslszn22qcogqozv6a)
 
 HERITAGEVAULT adalah platform berbasis blockchain yang melestarikan warisan budaya Indonesia melalui digitalisasi artefak tradisional sebagai NFT pada jaringan Internet Computer Protocol (ICP). Dirancang khusus untuk Hackathon ICP Indonesia, proyek ini menggabungkan teknologi blockchain, AR (Augmented Reality), dan pelestarian budaya dalam aplikasi yang ramah pengguna.
 
